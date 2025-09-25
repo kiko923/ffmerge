@@ -1,6 +1,6 @@
 ## 音视频合并工具（Windows）
 
-一个基于 FFmpeg 的本地小工具，用于快速合并/封装音频与视频文件。本仓库适用于 Windows 环境，内置 `ffmpeg.exe`，可直接双击 `YouTube合并工具.exe` 使用，无需安装依赖。
+一个基于 FFmpeg 的本地小工具，用于快速合并/封装音频与视频文件。本仓库适用于 Windows 环境，内置 `ffmpeg.exe`，可直接双击 `合并工具.exe` 使用，无需安装依赖。
 
 ### 功能特点
 - **一键合并**: 将单独的音频轨与视频轨合并为一个文件（通常为 MP4/MKV）。
@@ -18,7 +18,7 @@
 ```
 H:\User\桌面\音视频合并
 ├─ ffmpeg.exe                 # FFmpeg 可执行文件（已内置）
-├─ YouTube合并工具.exe        # 图形界面（GUI）工具
+├─ 合并工具.exe                # 图形界面（GUI）工具
 └─ ffmerge_gui_config.json    # 配置文件（可选）
 ```
 
